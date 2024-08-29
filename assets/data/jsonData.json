@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Love",
+    "image": "https://i.pinimg.com/736x/0e/6c/1c/0e6c1c60f9c1a9f2e1d45f19df792e8c.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Love is composed of a single soul inhabiting two bodies.",
+        "author": "Aristotle"
+      },
+      {
+        "id": 2,
+        "quote": "To love and be loved is to feel the sun from both sides.",
+        "author": "David Viscott"
+      },
+      {
+        "id": 3,
+        "quote": "The best thing to hold onto in life is each other.",
+        "author": "Audrey Hepburn"
+      },
+      {
+        "id": 4,
+        "quote": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+        "author": "Dr. Seuss"
+      },
+      {
+        "id": 5,
+        "quote": "Love is not about possession, it's all about appreciation.",
+        "author": "Osho"
+      },
+      {
+        "id": 6,
+        "quote": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+        "author": "Lao Tzu"
+      },
+      {
+        "id": 7,
+        "quote": "The greatest thing you'll ever learn is just to love and be loved in return.",
+        "author": "Eden Ahbez"
+      }
+    ]
+  },
+  {
+    "name": "Happy",
+    "image": "https://i.pinimg.com/564x/07/1e/8e/071e8eb775c3feb901352fd17a654521.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama"
+      },
+      {
+        "id": 2,
+        "quote": "The most important thing is to enjoy your life—to be happy—it's all that matters.",
+        "author": "Audrey Hepburn"
+      },
+      {
+        "id": 3,
+        "quote": "For every minute you are angry, you lose sixty seconds of happiness.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 4,
+        "quote": "Happiness is a warm puppy.",
+        "author": "Charles M. Schulz"
+      },
+      {
+        "id": 5,
+        "quote": "The purpose of our lives is to be happy.",
+        "author": "Dalai Lama"
+      },
+      {
+        "id": 6,
+        "quote": "Happiness depends upon ourselves.",
+        "author": "Aristotle"
+      },
+      {
+        "id": 7,
+        "quote": "If you want to be happy, be.",
+        "author": "Leo Tolstoy"
+      }
+    ]
+  },
+  {
+    "name": "Peace",
+    "image": "https://i.pinimg.com/736x/8e/c8/1c/8ec81ccb66221905de6fef5bd8d5ef76.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Peace begins with a smile.",
+        "author": "Mother Teresa"
+      },
+      {
+        "id": 2,
+        "quote": "Peace cannot be kept by force; it can only be achieved by understanding.",
+        "author": "Albert Einstein"
+      },
+      {
+        "id": 3,
+        "quote": "An eye for an eye only ends up making the whole world blind.",
+        "author": "Mahatma Gandhi"
+      },
+      {
+        "id": 4,
+        "quote": "If you want peace, you don't talk to your friends. You talk to your enemies.",
+        "author": "Desmond Tutu"
+      },
+      {
+        "id": 5,
+        "quote": "When the power of love overcomes the love of power, the world will know peace.",
+        "author": "Jimi Hendrix"
+      },
+      {
+        "id": 6,
+        "quote": "Better than a thousand hollow words, is one word that brings peace.",
+        "author": "Buddha"
+      },
+      {
+        "id": 7,
+        "quote": "It is not enough to win a war; it is more important to organize the peace.",
+        "author": "Aristotle"
+      }
+    ]
+  },
+  {
+    "name": "Motivation",
+    "image": "https://i.pinimg.com/564x/3f/6c/f2/3f6cf23c2013166b57aa9d79d44622c2.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "The Secret Of Getting Ahead Is Getting Started.",
+        "author": "Mark Twain"
+      },
+      {
+        "id": 2,
+        "quote": "I Don't Know The Key To Success, But The Key To Failure Is Trying To Please Everybody.",
+        "author": "Bill Cosby"
+      },
+      {
+        "id": 3,
+        "quote": "Good Actions Are A Guard Against The Blows Of Adversity.",
+        "author": "Abu Bakr"
+      },
+      {
+        "id": 4,
+        "quote": "I was the first one in the gym, and the last one to leave.",
+        "author": "Muhammad Ali"
+      },
+      {
+        "id": 5,
+        "quote": "Be patient; patience is a pillar of faith.",
+        "author": "Umar ibn Al-Khattāb (R.A)"
+      },
+      {
+        "id": 6,
+        "quote": "To the people that have said I'm too small, I'm not fast enough, I don't have what it takes, I'm not strong enough. THANK YOU.",
+        "author": "Muhammad Ali"
+      },
+      {
+        "id": 7,
+        "quote": "It will be a killer, and a chiller, and a thriller, when I get the gorilla in Manila.",
+        "author": "Muhammad Ali"
+      }
+    ]
+  },
+  {
+    "name": "Family",
+    "image": "https://i.pinimg.com/564x/bd/a4/da/bda4da229221375192c273e6286f61a2.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Family is not an important thing, it's everything.",
+        "author": "Michael J. Fox"
+      },
+      {
+        "id": 2,
+        "quote": "The most important thing in the world is family and love.",
+        "author": "John Wooden"
+      },
+      {
+        "id": 3,
+        "quote": "Family means no one gets left behind or forgotten.",
+        "author": "David Ogden Stiers"
+      },
+      {
+        "id": 4,
+        "quote": "You don't choose your family. They are God's gift to you, as you are to them.",
+        "author": "Desmond Tutu"
+      },
+      {
+        "id": 5,
+        "quote": "A happy family is but an earlier heaven.",
+        "author": "George Bernard Shaw"
+      },
+      {
+        "id": 6,
+        "quote": "The love of a family is life's greatest blessing.",
+        "author": "Unknown"
+      },
+      {
+        "id": 7,
+        "quote": "In family life, love is the oil that eases friction, the cement that binds closer together, and the music that brings harmony.",
+        "author": "Friedrich Nietzsche"
+      }
+    ]
+  },
+  {
+    "name": "Sad",
+    "image": "https://i.pinimg.com/564x/f5/dd/3b/f5dd3ba90fe1eb27e6d5dfbce2a9d34b.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Tears are words that need to be written.",
+        "author": "Paulo Coelho"
+      },
+      {
+        "id": 2,
+        "quote": "Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad.",
+        "author": "Henry Wadsworth Longfellow"
+      },
+      {
+        "id": 3,
+        "quote": "It is sad not to love, but it is much sadder not to be able to love.",
+        "author": "Miguel de Unamuno"
+      },
+      {
+        "id": 4,
+        "quote": "Heavy hearts, like heavy clouds in the sky, are best relieved by the letting of a little water.",
+        "author": "Christopher Morley"
+      },
+      {
+        "id": 5,
+        "quote": "The word 'happiness' would lose its meaning if it were not balanced by sadness.",
+        "author": "Carl Jung"
+      },
+      {
+        "id": 6,
+        "quote": "The walls we build around us to keep sadness out also keeps out the joy.",
+        "author": "Jim Rohn"
+      },
+      {
+        "id": 7,
+        "quote": "Sadness flies away on the wings of time.",
+        "author": "Jean de La Fontaine"
+      }
+    ]
+  },
+  {
+    "name": "Goal",
+    "image": "https://i.pinimg.com/564x/91/af/d5/91afd5ee19dbd1f7fefe41584b3e5e11.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "id": 2,
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+      },
+      {
+        "id": 3,
+        "quote": "A goal without a plan is just a wish.",
+        "author": "Antoine de Saint-Exupéry"
+      },
+      {
+        "id": 4,
+        "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "id": 5,
+        "quote": "Setting goals is the first step in turning the invisible into the visible.",
+        "author": "Tony Robbins"
+      },
+      {
+        "id": 6,
+        "quote": "Success is the sum of small efforts, repeated day in and day out.",
+        "author": "Robert Collier"
+      },
+      {
+        "id": 7,
+        "quote": "Goals are dreams with deadlines.",
+        "author": "Diana Scharf"
+      }
+    ]
+  },
+  {
+    "name": "Life",
+    "image": "https://i.pinimg.com/564x/25/df/3a/25df3ae08b2760c2283d7641bbe29e80.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Life is what happens when you're busy making other plans.",
+        "author": "John Lennon"
+      },
+      {
+        "id": 2,
+        "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+        "author": "Abraham Lincoln"
+      },
+      {
+        "id": 3,
+        "quote": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 4,
+        "quote": "Life is either a daring adventure or nothing at all.",
+        "author": "Helen Keller"
+      },
+      {
+        "id": 5,
+        "quote": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins"
+      },
+      {
+        "id": 6,
+        "quote": "Life is short, and it is up to you to make it sweet.",
+        "author": "Sarah Louise Delany"
+      },
+      {
+        "id": 7,
+        "quote": "Life isn’t about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw"
+      }
+    ]
+  },
+  {
+    "name": "Gratitude",
+    "image": "https://i.pinimg.com/736x/12/09/a8/1209a827d0955e3bd8f48d31168d8ca3.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Gratitude turns what we have into enough.",
+        "author": "Anonymous"
+      },
+      {
+        "id": 2,
+        "quote": "The more you practice the art of thankfulness, the more you have to be thankful for.",
+        "author": "Norman Vincent Peale"
+      },
+      {
+        "id": 3,
+        "quote": "Gratitude is not only the greatest of virtues but the parent of all the others.",
+        "author": "Cicero"
+      },
+      {
+        "id": 4,
+        "quote": "Feeling gratitude and not expressing it is like wrapping a present and not giving it.",
+        "author": "William Arthur Ward"
+      },
+      {
+        "id": 5,
+        "quote": "Gratitude is the fairest blossom which springs from the soul.",
+        "author": "Henry Ward Beecher"
+      },
+      {
+        "id": 6,
+        "quote": "When we give cheerfully and accept gratefully, everyone is blessed.",
+        "author": "Maya Angelou"
+      },
+      {
+        "id": 7,
+        "quote": "Gratitude is the sign of noble souls.",
+        "author": "Aesop"
+      },
+      {
+        "id": 8,
+        "quote": "The roots of all goodness lie in the soil of appreciation for goodness.",
+        "author": "Dalai Lama"
+      },
+      {
+        "id": 9,
+        "quote": "Gratitude is the wine for the soul. Go on. Get drunk.",
+        "author": "Rumi"
+      },
+      {
+        "id": 10,
+        "quote": "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.",
+        "author": "Marcel Proust"
+      }
+    ]
+  },
+  {
+    "name": "Leadership",
+    "image": "https://i.pinimg.com/564x/d9/5a/d6/d95ad632c30664fa0c43b6c9613703e8.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "The function of leadership is to produce more leaders, not more followers.",
+        "author": "Ralph Nader"
+      },
+      {
+        "id": 2,
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "id": 3,
+        "quote": "A leader is one who knows the way, goes the way, and shows the way.",
+        "author": "John C. Maxwell"
+      },
+      {
+        "id": 4,
+        "quote": "Leadership is the capacity to translate vision into reality.",
+        "author": "Warren Bennis"
+      },
+      {
+        "id": 5,
+        "quote": "A leader is someone who steps up when others step back.",
+        "author": "Unknown"
+      },
+      {
+        "id": 6,
+        "quote": "The best leaders are those who lead by example, not by force.",
+        "author": "Unknown"
+      },
+      {
+        "id": 7,
+        "quote": "To handle yourself, use your head; to handle others, use your heart.",
+        "author": "Eleanor Roosevelt"
+      }
+    ]
+  },
+  {
+    "name": "Self-love",
+    "image": "https://i.pinimg.com/564x/35/c3/80/35c3807ee0343ee085336285ccb631f5.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "To love oneself is the beginning of a lifelong romance.",
+        "author": "Oscar Wilde"
+      },
+      {
+        "id": 2,
+        "quote": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+        "author": "Buddha"
+      },
+      {
+        "id": 3,
+        "quote": "Self-love is not selfish; you cannot truly love another until you know how to love yourself.",
+        "author": "Unknown"
+      },
+      {
+        "id": 4,
+        "quote": "You are very powerful, provided you know how powerful you are.",
+        "author": "Yogi Bhajan"
+      },
+      {
+        "id": 5,
+        "quote": "You are enough just as you are.",
+        "author": "Meghan Markle"
+      },
+      {
+        "id": 6,
+        "quote": "Be yourself; everyone else is already taken.",
+        "author": "Oscar Wilde"
+      },
+      {
+        "id": 7,
+        "quote": "Self-love is the source of all our other loves.",
+        "author": "Pierre Corneille"
+      }
+    ]
+  },
+  {
+    "name": "Courage",
+    "image": "https://i.pinimg.com/736x/43/96/92/439692dee9fd98b0159939bcfae67102.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Courage is not the absence of fear, but the triumph over it.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "id": 2,
+        "quote": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "id": 3,
+        "quote": "It takes courage to grow up and become who you really are.",
+        "author": "E.E. Cummings"
+      },
+      {
+        "id": 4,
+        "quote": "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "id": 5,
+        "quote": "Courage is grace under pressure.",
+        "author": "Ernest Hemingway"
+      },
+      {
+        "id": 6,
+        "quote": "Fortune and love favor the brave.",
+        "author": "Ovid"
+      },
+      {
+        "id": 7,
+        "quote": "Be not afraid of life. Believe that life is worth living, and your belief will help create the fact.",
+        "author": "William James"
+      }
+    ]
+  },
+  {
+    "name": "Faith",
+    "image": "https://i.pinimg.com/736x/57/0c/b0/570cb0725335ebddb6aaedf384ee7230.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "Faith is taking the first step even when you don't see the whole staircase.",
+        "author": "Martin Luther King Jr."
+      },
+      {
+        "id": 2,
+        "quote": "The best way out is always through.",
+        "author": "Robert Frost"
+      },
+      {
+        "id": 3,
+        "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 4,
+        "quote": "Faith does not make things easy, it makes them possible.",
+        "author": "Luke 1:37"
+      },
+      {
+        "id": 5,
+        "quote": "When you go through deep waters, I will be with you.",
+        "author": "Isaiah 43:2"
+      },
+      {
+        "id": 6,
+        "quote": "With God, all things are possible.",
+        "author": "Matthew 19:26"
+      },
+      {
+        "id": 7,
+        "quote": "Let your faith be bigger than your fear.",
+        "author": "Unknown"
+      }
+    ]
+  },
+  {
+    "name": "Health",
+    "image": "https://i.pinimg.com/564x/bf/27/25/bf2725a411e3ab5a474eb850695d0e1c.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "The greatest wealth is health.",
+        "author": "Virgil"
+      },
+      {
+        "id": 2,
+        "quote": "It is health that is real wealth and not pieces of gold and silver.",
+        "author": "Mahatma Gandhi"
+      },
+      {
+        "id": 3,
+        "quote": "To keep the body in good health is a duty, otherwise we shall not be able to keep our mind strong and clear.",
+        "author": "Buddha"
+      },
+      {
+        "id": 4,
+        "quote": "Health is not just about what you're eating. It's also about what you're thinking and saying.",
+        "author": "Unknown"
+      },
+      {
+        "id": 5,
+        "quote": "The mind and body are not separate. What affects one, affects the other.",
+        "author": "Unknown"
+      },
+      {
+        "id": 6,
+        "quote": "Take care of your body. It's the only place you have to live.",
+        "author": "Jim Rohn"
+      },
+      {
+        "id": 7,
+        "quote": "An ounce of prevention is worth a pound of cure.",
+        "author": "Benjamin Franklin"
+      }
+    ]
+  },
+  {
+    "name": "Humor",
+    "image": "https://i.pinimg.com/564x/29/ed/92/29ed92316915d9d1492b0f6650cf90e1.jpg",
+    "quotes": [
+      {
+        "id": 1,
+        "quote": "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+        "author": "Unknown"
+      },
+      {
+        "id": 2,
+        "quote": "Why don’t scientists trust atoms? Because they make up everything!",
+        "author": "Unknown"
+      },
+      {
+        "id": 3,
+        "quote": "I'm on a whiskey diet. I've lost three days already.",
+        "author": "Unknown"
+      },
+      {
+        "id": 4,
+        "quote": "I threw a boomerang a few years ago. I live in constant fear.",
+        "author": "Unknown"
+      },
+      {
+        "id": 5,
+        "quote": "I used to play piano by ear, but now I use my hands.",
+        "author": "Unknown"
+      },
+      {
+        "id": 6,
+        "quote": "Parallel lines have so much in common. It’s a shame they’ll never meet.",
+        "author": "Unknown"
+      },
+      {
+        "id": 7,
+        "quote": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+        "author": "Unknown"
+      }
+    ]
+  }
+]
