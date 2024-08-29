@@ -157,7 +157,10 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: Text(
           "Quote App",
-          style: TextStyle(fontSize: 23),
+          style: TextStyle(
+            fontSize: 23,
+            fontWeight: FontWeight.w600,
+          ),
         ),
         actions: [
           IconButton(
