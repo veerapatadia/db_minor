@@ -5,6 +5,7 @@
 Quotable is your ultimate quote companion, offering a rich collection of quotes across various categories to inspire, motivate, and uplift your spirits. With Quotable, you can easily add your favorite quotes to a personalized list, explore a wide range of categories to suit your mood, and even customize the app to match your style.
 
 Key Features:
+
 Add to Favorites: Save the quotes that resonate with you the most for quick access anytime.
 Explore Categories: Browse through a diverse selection of categories to find quotes that inspire you.
 Personalization Options: Customize your experience with a variety of themes, fonts, and colors to make the app truly yours.
