@@ -16,3 +16,17 @@ Change App Theme: Enjoy a fully customizable user interface by changing the app'
 Whether you need a daily dose of motivation, a thought-provoking quote, or simply want to explore words of wisdom, Quotable has got you covered.
 
 Download Quotable today and bring inspiration into your daily life!
+
+
+![1](https://github.com/user-attachments/assets/8068c824-d438-49ce-baef-64ffedacc982)
+![2](https://github.com/user-attachments/assets/cede0c7f-b28d-46ca-add2-a8a6b2051981)
+![3](https://github.com/user-attachments/assets/490e19ea-57d0-4b31-906e-d0fbf85bd05d)
+![4](https://github.com/user-attachments/assets/eee153f3-4163-49c8-89a7-9edff5404594)
+![5](https://github.com/user-attachments/assets/6ee5a007-c392-4cee-8563-2454abcbd4e0)
+![6](https://github.com/user-attachments/assets/41b98008-903c-449a-bf4a-48938b433b78)
+![7](https://github.com/user-attachments/assets/aed6c73e-5382-4edc-93bb-a8417b5afb07)
+![8](https://github.com/user-attachments/assets/727e6803-2ee0-42f9-bb6a-9dc642e35f19)
+![9](https://github.com/user-attachments/assets/bb7bc87c-8a72-4462-bc2e-05df33fd222a)
+![10](https://github.com/user-attachments/assets/e3a84931-d61f-4afc-9f23-cfbbe6505b63)
+![11](https://github.com/user-attachments/assets/f2c56e9f-a045-4537-9e95-9653f9a06ea6)
+
